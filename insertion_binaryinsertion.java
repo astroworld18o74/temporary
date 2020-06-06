@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-class sol{
+class insertion_binaryinsertion{
     static int[] nums;
     public void bubblesort(int[] nums){
         for(int i=0;i<nums.length;i++){
@@ -52,7 +52,7 @@ class sol{
            nums[i]=scan.nextInt();
            i++;
         } 
-        sol th=new sol();
+        insertion_binaryinsertion th=new insertion_binaryinsertion();
         th.binaryinsertion(nums);
         th.printArray(nums);
     }
