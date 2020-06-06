@@ -1,2 +1,2 @@
 # temporary
-learning
+This repository contains sorting algorithms in java.
